@@ -2,8 +2,8 @@ NT AUTHORITY;NT-AUTORITÄT
 BUILTIN;VORDEFINIERT
 None;Keine
 Never;Nie
-Success;Erfolg
 Success and Failure;Erfolg und Fehler
+Success;Erfolg
 No Auditing;Keine Überwachung
 Everyone;Jeder
 Authenticated Users;Authentifizierte Benutzer
